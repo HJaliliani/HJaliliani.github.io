@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sibche.aspardproject.app",
+    "sha256_cert_fingerprints":
+    ["79:4E:EE:51:9F:06:B2:C4:0D:5B:71:D2:BF:52:50:46:BF:91:3C:C6:77:CE:37:9B:46:DA:67:29:CA:30:9E:AD"]
+  }
+}]
