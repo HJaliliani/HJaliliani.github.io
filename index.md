@@ -10,17 +10,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [link1](https://hjaliliani.github.io/hamplus/)
 
 
-https://hjaliliani.github.io/hamplus/1/
+[link2](https://hjaliliani.github.io/hamplus/1/)
 
-https://hjaliliani.github.io/hamplus2/
+[link3](https://hjaliliani.github.io/hamplus2/)
 
-https://hjaliliani.github.io/
+[link4](https://hjaliliani.github.io/)
 
 
 [link5](https://hjaliliani.github.io/2)
 
 
-https://hjaliliani.github.io/23/
+[link6](https://hjaliliani.github.io/23/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
