@@ -1,13 +1,9 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "4ABF38U5XC.com.asan.AsanPardakht.ap.dev",
-        "paths":[
-            “*”
-        ]
-      }
-    ]
-  }
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "4ABF38U5XC.com.asan.AsanPardakht.ap.dev",
+			"paths": ["*"]
+		}]
+	}
 }
