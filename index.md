@@ -1,5 +1,5 @@
-Hello GitHub Pages
-## Welcome to My  GitHub Pages
+Hamed jaliliani personal website
+## Welcome to My  GitHub Pages portfolio
 
 You can use the [editor on GitHub](https://github.com/HJaliliani/hamplus/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [link2](https://hjaliliani.github.io/hamplus/1/)
 
-[link3](https://hjaliliani.github.io/hamplus2/)
+[link3](https://hjaliliani.github.io/hamplus/)
 
 [link4](https://hjaliliani.github.io/)
 
